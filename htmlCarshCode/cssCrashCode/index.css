@@ -1,0 +1,31 @@
+.container{
+    background-image: url("https://img.freepik.com/free-photo/vertical-shot-railway-surrounded-by-trees-transmission-towers_181624-60858.jpg?size=626&ext=jpg&ga=GA1.2.472217636.1695646567&semt=sph");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+.heading{
+    color: black;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+.heading2{
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+.increment-btn{
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+}
+.save-btn{
+    background-color: rgba(0, 255, 123, 0.227);
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+}
